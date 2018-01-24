@@ -10,7 +10,7 @@
   * users_rise_up_period.ipynb
   * users_rise_up_period_data
  
-* 爬取糗事百科段子信息
+* [爬取糗事百科段子信息](http://blog.csdn.net/qq_24452475/article/details/79122259)
   * spider_qiushibaike_content_datas.ipynb
   * spider_qiushibaike_content_datas.py
 
