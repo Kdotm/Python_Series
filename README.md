@@ -3,18 +3,18 @@
 * Anaconda docs
   * Anaconda环境安装以及搭建Python多内核环境.doc
   * 简单分析脚本
-   * Anaconda2_infos_analysis.ipynb
-   * Anaconda3_infos_analysis.ipynb
+    * Anaconda2_infos_analysis.ipynb
+    * Anaconda3_infos_analysis.ipynb
 
 * 绘制某段时间内用户增加趋势图
- * users_rise_up_period.ipynb
- * users_rise_up_period_data
+  * users_rise_up_period.ipynb
+  * users_rise_up_period_data
  
 * 爬取糗事百科段子信息
- * spider_qiushibaike_content_datas.ipynb
- * spider_qiushibaike_content_datas.py
+  * spider_qiushibaike_content_datas.ipynb
+  * spider_qiushibaike_content_datas.py
 
-* ![爬取公务员招考信息（2018）](http://blog.csdn.net/qq_24452475/article/details/79156758)
- * spider_huatu_civil_servant_post_metas.ipynb
- * post_metas.csv
+* [爬取公务员招考信息（2018）](http://blog.csdn.net/qq_24452475/article/details/79156758)
+  * spider_huatu_civil_servant_post_metas.ipynb
+  * post_metas.csv
 
