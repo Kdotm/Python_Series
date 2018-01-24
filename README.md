@@ -1,10 +1,10 @@
 # Climb_Python
 目前任职大数据开发工作，日常开发使用Python作为数据分析工具，在此比较常用的方面知识或难点总结、整理出来，以此分享，谢谢！
 * Anaconda docs
-  * Anaconda环境安装以及搭建Python多内核环境.doc
-  * 简单分析脚本
-    * Anaconda2_infos_analysis.ipynb
-    * Anaconda3_infos_analysis.ipynb
+* Anaconda环境安装以及搭建Python多内核环境.doc
+* 简单分析脚本
+* Anaconda2_infos_analysis.ipynb
+* Anaconda3_infos_analysis.ipynb
 * 爬取公务员招考信息（2018）
   * spider_huatu_civil_servant_post_metas.ipynb
   * post_metas.csv
