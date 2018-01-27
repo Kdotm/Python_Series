@@ -18,3 +18,8 @@
   * spider_huatu_civil_servant_post_metas.ipynb
   * post_metas.csv
 
+* [地址转换：根据地名爬取经纬度并计算geohash值](http://blog.csdn.net/qq_24452475/article/details/79183861)
+  * lng_lat_2_geohash_two_way.ipynb
+  
+  
+
