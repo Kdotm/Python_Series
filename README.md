@@ -21,7 +21,8 @@
 * [地址转换：根据地名爬取经纬度并计算geohash值](http://blog.csdn.net/qq_24452475/article/details/79183861)
   * lng_lat_2_geohash_two_way.ipynb
 
-* [爬取 PyODPS[latest] 并转换为 PDF](https://github.com/Kdotm/Climb_Python/blob/master/Python_PyODPS_HTML_to_PDF.ipynb)
+* 爬取 PyODPS[latest] 并转换为 PDF
+  * [博文详解](http://blog.csdn.net/qq_24452475/article/details/79248953)
   * Python_PyODPS_HTML_to_PDF.ipynb
   
 
