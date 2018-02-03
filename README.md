@@ -11,21 +11,21 @@
   * users_rise_up_period_data
  
 * 爬取糗事百科段子信息
-  * [CSDN文章介绍](http://blog.csdn.net/qq_24452475/article/details/79122259)
+  * [对应介绍文章](http://blog.csdn.net/qq_24452475/article/details/79122259)
   * spider_qiushibaike_content_datas.ipynb
   * spider_qiushibaike_content_datas.py
 
 * 爬取公务员招考信息（2018）
-  * [CSDN文章介绍](http://blog.csdn.net/qq_24452475/article/details/79156758)
+  * [对应介绍文章](http://blog.csdn.net/qq_24452475/article/details/79156758)
   * spider_huatu_civil_servant_post_metas.ipynb
   * post_metas.csv
 
 * 地址转换：根据地名爬取经纬度并计算geohash值
-  * [CSDN文章介绍](http://blog.csdn.net/qq_24452475/article/details/79183861)
+  * [对应介绍文章](http://blog.csdn.net/qq_24452475/article/details/79183861)
   * lng_lat_2_geohash_two_way.ipynb
 
 * 爬取 PyODPS[latest] 并转换为 PDF
-  * [CSDN文章介绍](http://blog.csdn.net/qq_24452475/article/details/79248953)
+  * [对应介绍文章](http://blog.csdn.net/qq_24452475/article/details/79248953)
   * Python_PyODPS_HTML_to_PDF.ipynb
   
 
