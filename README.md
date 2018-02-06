@@ -27,5 +27,7 @@
 * 爬取 PyODPS[latest] 并转换为 PDF
   * [博文: http://blog.csdn.net/qq_24452475/article/details/79248953](http://blog.csdn.net/qq_24452475/article/details/79248953)
   * Python_PyODPS_HTML_to_PDF.ipynb
-  
 
+* Python操作 MariaDB 实例教程手册
+  * 包含Python操作 MariaDB、执行SQL语句、获取、遍历结果集、图片入库、事务等代码示例
+  * Python操作 MariaDB 实例教程手册_代码.ipynb
