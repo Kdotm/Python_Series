@@ -33,5 +33,5 @@
   * Python操作 MariaDB 实例教程手册_代码.ipynb
 
 * Jupyter 常用 魔术命令（magics）总结
-  * Built-in magic commands
+  * Built-in magic commands
   * Python_Common_Magic_Samples.ipynb
