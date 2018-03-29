@@ -31,3 +31,7 @@
 * Python操作 MariaDB 实例教程手册
   * 包含Python操作 MariaDB、执行SQL语句、获取、遍历结果集、图片入库、事务等代码示例
   * Python操作 MariaDB 实例教程手册_代码.ipynb
+
+* Jupyter 常用 魔术命令（magics）总结
+  * Built-in magic commands
+  * Python_Common_Magic_Samples.ipynb
